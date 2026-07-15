@@ -215,6 +215,4 @@ Always ensure the index exists.
 
 ---
 
-## 💻 Code Reference
 
-`code/03-accessing-elements.py`

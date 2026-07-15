@@ -189,7 +189,3 @@ Changes made to a list remain until they are modified again.
 - Mutability makes lists flexible for real-world programming and AI applications.
 
 ---
-
-## 💻 Code Reference
-
-`code/04-modifying-elements.py`

@@ -245,6 +245,4 @@ Need to combine **two lists**?
 Need to insert an element at a **specific position**?
 → Use `insert()`
 
-## 💻 Code Reference
 
-`code/06-list-methods/01-adding-elements.py`

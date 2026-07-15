@@ -167,6 +167,4 @@ numbers = [10, 20, 30]
 
 ---
 
-## 💻 Code Reference
 
-`code/02-creating-lists.py`

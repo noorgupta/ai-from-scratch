@@ -154,6 +154,4 @@ numbers[1]
 
 ---
 
-## 💻 Code Reference
 
-`code/01-introduction.py`

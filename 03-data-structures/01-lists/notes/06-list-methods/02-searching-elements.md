@@ -187,6 +187,4 @@ It returns only the **first occurrence**.
 
 ---
 
-## 💻 Code Reference
 
-`code/06-list-methods/02-searching-counting.py`

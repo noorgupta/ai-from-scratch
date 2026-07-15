@@ -238,7 +238,3 @@ This removes the variable itself.
 - Data cleaning is one of the most common uses of deletion operations in AI and software development.
 
 ---
-
-## 💻 Code Reference
-
-`code/05-deleting-elements.py`

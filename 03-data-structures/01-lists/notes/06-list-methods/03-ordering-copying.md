@@ -247,6 +247,4 @@ list2 = list1.copy()
 
 ---
 
-## 💻 Code Reference
 
-`code/06-list-methods/03-ordering-copying.py`
