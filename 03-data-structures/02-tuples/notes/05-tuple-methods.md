@@ -199,9 +199,3 @@ Python only provides methods that retrieve information (`count()` and `index()`)
 - Tuple methods are read-only operations.
 - They support searching and counting.
 - Their limited functionality is a direct result of tuple immutability.
-
----
-
-## 💻 Code Reference
-
-`code/tuples.py`
