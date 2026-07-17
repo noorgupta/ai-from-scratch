@@ -1,0 +1,4 @@
+Hello, Welcome to Python File Handling.
+This is the second line.
+Learning Python is fun.
+Practice makes perfect.
